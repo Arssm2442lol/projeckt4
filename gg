@@ -2,6 +2,7 @@
     <title>Мобильный телефон игрі </title>
     <body>
         <header>
+<link rel="stylesheet" href="CSS"/>
                 <h1 style="color:#000000"> <i> Мобильный телефон игрі </i>
                 <img class="icons" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSConh-X2EkOqziED5z-QI2T4eJpxQvymnjSGLG7Qbgt_UBpBxB0Ecm4QQLUtnJo0mRRmM&usqp=CAU"> </h1>
         </header>
