@@ -2,19 +2,23 @@
     <title>Мобильный телефон игрі </title>
     <body>
         <header>
-<link rel="stylesheet" href="CSS"/>
+         <link rel="stylesheet" href="CSS"/>
                 <h1 style="color:#000000"> <i> Мобильный телефон игрі </i>
                 <img class="icons" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSConh-X2EkOqziED5z-QI2T4eJpxQvymnjSGLG7Qbgt_UBpBxB0Ecm4QQLUtnJo0mRRmM&usqp=CAU"> </h1>
         </header>
 
         <main>
-              <img class="sd" src="https://upload.wikimedia.org/wikipedia/ru/thumb/a/ad/Standoff_2_gameplay.jpg/330px-Standoff_2_gameplay.jpg">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLnVgpd89V0F3HWAne2j8WD1lrrNDv0v9PcA&usqp=CAU">
-
-                <p style="color:darkred: font-size 80px">Standoff 2 IСТОРИЯ
+          <p>Standoff 2 
                 </p>
+              <img class="sd" src="https://upload.wikimedia.org/wikipedia/ru/thumb/a/ad/Standoff_2_gameplay.jpg/330px-Standoff_2_gameplay.jpg">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLnVgpd89V0F3HWAne2j8WD1lrrNDv0v9PcA&usqp=CAU"> <p>Standoff 2 IСТОРИЯ
+                </p>
+
                 
-                <h2 style="font-size 5px"> <i> Standoff 2 представляет собой классический шутер от первого лица с различными режимами игры и арсеналом разного оружия. Каждое оружие обладает различным набором характеристик, ограничивающих тактические возможности игрока: пробиваемость брони, отдача, темп стрельбы, цена, награда за убийство, боезапас.</i>
+                <h2> <i> Standoff 2 представляет собой классический шутер от первого лица с различными режимами игры и арсеналом разного оружия. Каждое оружие обладает различным набором характеристик, ограничивающих тактические возможности игрока: пробиваемость брони, отдача, темп стрельбы, цена, награда за убийство, боезапас.</i>
+
+                <p>Standoff 2 видео </p>
+                <iframe width="650" height="450" src="https://www.youtube.com/embed/lJWKJL87YIM" title="Reforged | Трейлер обновления 0.30.0 | Standoff 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  </h2> <p>
              <ul type="square">
@@ -26,14 +30,17 @@
                 </ul>
                    </p>
 
-<h3> ......................................................................................................................................................</h3>
-                <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/4/41/Geometry_Dash_logo.webp/180px-Geometry_Dash_logo.webp.png"> 
 
-                <p style="color:darkred: font-size 80px">Geometry_Dash IСТОРИЯ
+
+                <p>Geometry_Dash
+                </p>
+                <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/4/41/Geometry_Dash_logo.webp/180px-Geometry_Dash_logo.webp.png"> <p>Geometry_Dash IСТОРИЯ
                 </p>
                 
-                <h4 style="font-size 10px"> <i> Geometry Dash — компьютерная игра, соединяющая жанры 2D-платформера и ритм-игры, выпущенная изначально для мобильных устройств на iOS/Android, позже и для ПК. Создатель игры — шведский разработчик Роберт Топала, выступающий под псевдонимом RobTop. Игровой процесс заключается в прохождении уровня со множеством препятствий под ритмичную музыку. Помимо этого в игре можно создавать собственные уровни и выкладывать их на сервера, из-за чего вокруг игры сложилось активное сообщество фанатов.</i>
-
+                <h4 style="font-size 10px"> <i> Geometry Dash — компьютерная игра, соединяющая жанры 2D-платформера и ритм-игры, выпущенная изначально для мобильных устройств на iOS/Android, позже и для ПК. Создатель игры — шведский разработчик Роберт Топала, выступающий под псевдонимом RobTop. Игровой процесс заключается в прохождении уровня со множеством препятствий под ритмичную музыку. Помимо этого в игре можно создавать собственные уровни и выкладывать их на сервера, из-за чего вокруг игры сложилось активное сообщество фанатов.</i> 
+                <p>Geometry_Dash видео
+                </p>
+                <iframe width="650" height="450" src="https://www.youtube.com/embed/LxA4NJMiZ8o" title="Geometry Dash 2.2 Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  </h4> <p>
   <ul type="square">
                 <a href="https://ru.wikipedia.org/wiki/Geometry_Dash"> <li><i>*Дополнительних ответ та кучу всего на викепедий*</i></li>
@@ -44,15 +51,20 @@
                 </ul>
                 </p>
              
-                <h5>.......................................................................................................................................................................................................................</h5> 
+                <p>Minecraft 
+                </p> 
                  <img class="ffg" src="https://upload.wikimedia.org/wikipedia/ru/f/f4/Minecraft_Cover_Art.png">
 
-                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0pW0cD6pmF65Xg-IFyxzI74CwT2Ub_8MviA&usqp=CAU">
 
-                <p style="color:darkred: font-size 80px">Minecraft IСТОРИЯ
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0pW0cD6pmF65Xg-IFyxzI74CwT2Ub_8MviA&usqp=CAU">
+                   <p>Minecraft IСТОРИЯ
                 </p>
                 
-                <h6 style="font-size 30px"><i> Minecraft (от англ. mine — «шахта; добывать» + craft — «ремесло; создавать») — компьютерная инди-игра в жанре песочницы, созданная шведским программистом Маркусом Перссоном и выпущенная его студией Mojang AB. В 2009 году Перссон опубликовал начальную версию игры; в конце 2011 года была выпущена стабильная версия для компьютеров Windows, Linux и macOS с распространением через официальный сайт. В последующие годы Minecraft была портирована на мобильные устройства под управлением Android, iOS и Windows Phone; на игровые приставки PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One, New Nintendo 3DS, Nintendo Switch и Wii U; и другие платформы. В 2014 году корпорация Microsoft приобрела права на Minecraft вместе со студией Mojang AB за 2,5 миллиарда долларов. В 2017 году была выпущена мультиплатформенная версия игры, объединившая различные версии для разных устройств.</i>
+                <h6 style="font-size 80px"><i> Minecraft (от англ. mine — «шахта; добывать» + craft — «ремесло; создавать») — компьютерная инди-игра в жанре песочницы, созданная шведским программистом Маркусом Перссоном и выпущенная его студией Mojang AB. В 2009 году Перссон опубликовал начальную версию игры; в конце 2011 года была выпущена стабильная версия для компьютеров Windows, Linux и macOS с распространением через официальный сайт. В последующие годы Minecraft была портирована на мобильные устройства под управлением Android, iOS и Windows Phone; на игровые приставки PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One, New Nintendo 3DS, Nintendo Switch и Wii U; и другие платформы. В 2014 году корпорация Microsoft приобрела права на Minecraft вместе со студией Mojang AB за 2,5 миллиарда долларов. В 2017 году была выпущена мультиплатформенная версия игры, объединившая различные версии для разных устройств.</i>
+                   <p>Minecraft видео 
+                </p> 
+
+                  <iframe width="650" height="450" src="https://www.youtube.com/embed/NG-5L34HqOs" title="Tricky Trials Update Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  </h6> <p>
   <ul type="square">
@@ -61,17 +73,21 @@
 
              <a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=ru"> <li><i>*скачать только здесь*</i></li>
                 </a> </ul> </p>
-
-                <h7>......................................приложение для голосового, видео- и текстового общения............................</h7>
+                 <p>Discord 
+                </p>
 
                 <img class="ffg" src="https://upload.wikimedia.org/wikipedia/ru/thumb/b/b7/Discord_logo_svg.svg/330px-Discord_logo_svg.svg.png">
 
                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyjkJBM8OERkrok5tA339Avj3NQ2OyobuH2Q&s">
-
-                  <p style="color:darkred: font-size 80px">Discord IСТОРИЯ
+                  
+                  <p>Discord IСТОРИЯ
                 </p>
 
-                <h8 style="font-size 30px"><i> Discord (с англ. — «раздор») — кроссплатформенная проприетарная система мгновенного обмена сообщениями (мессенджер) с поддержкой VoIP и видеоконференций, предназначенная для использования различными сообществами по интересам.</i>
+                <h8 style="font-size 30px"><i> Концепцию Discord создали американский предприниматель Джейсон Ситрон[англ.] и программист Станислав («Стэн») Вишневский, оба увлечённые геймеры[11][12]. Ситрон в 2008 году выпустил мобильную игру Aurora Feint и позже со своими партнёрами доработал одну из сетевых функций этой игры до самостоятельной платформы OpenFeint[англ.] — социального сервиса, который описывали как «Xbox Live для iPhone». В 2011 году сервис купила японская компания Gree[англ.]*; Ситрон некоторое время продолжал работать генеральным директором OpenFeint и в это время познакомился с Вишневским, в то время сотрудником Gree[12].</i>
+
+                   <p>Discord 1 апрель видео 
+                </p>
+                  <iframe width="650" height="450" src="https://www.youtube.com/embed/szMJF-P1VMA" title="Дискорд 2 Трейлер by Beluga | Переведено Yoratt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  </h8> <p>
   <ul type="square">
@@ -80,12 +96,14 @@
 
              <a href="https://play.google.com/store/search?q=discord&c=apps&hl=ru"> <li><i>*скачать только здесь*</i></li>
                 </a> </ul> </p>
+                 <p> Telegram 
+                </p>
 
                 <img class="ffg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/120px-Telegram_2019_Logo.svg.png">
 
                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNV4CjnWd2vxM3rza6bbHIQvpeNvfLnkR5-A&s">
 
-                  <p style="color:darkred: font-size 80px"> Telegram IСТОРИЯ
+                  <p> Telegram IСТОРИЯ
                 </p>
 
                 <h10 style="font-size 30px"><i> Telegram (от др.-греч «далеко» + др.-греч. γράμμα «запись») — кроссплатформенная система мгновенного обмена сообщениями (мессенджер) с функциями обмена текстовыми, голосовыми и видеосообщениями, а также стикерами, фотографиями и файлами многих форматов. Также позволяет совершать аудио- и видеозвонки, устраивать прямые эфиры в каналах и группах, организовывать конференции, многопользовательские группы и каналы. Функциональность приложения может быть значительно расширена при помощи ботов. Клиентские приложения Telegram доступны для Android, iOS, Windows, macOS и GNU/Linux.</i>
@@ -102,8 +120,9 @@
 
         <footer>
            <p><b><i>Контакти</i></b></p>
-            <p>Discord @arssm/telegram @arssm</p>
-            <p>Тел.:+44742226904</p> 
+            <p>Discord: @alluring_starfish_33219 / Telegram: @arssm</p>
+            <p>Тел.:+44742226904</p>
+             <p>Twich Arssm2442lol</p>
 
         </footer>
     </body>
